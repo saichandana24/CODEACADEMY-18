@@ -1,1 +1,2 @@
 # CODEACADEMY-18
+It is an E-learning website.Code Academy, a new e-learning platform designed to make coding education accessible and engaging for everyone. Whether you're a beginner taking your first steps in programming or an experienced developer looking to enhance your skills, Code Academy offers a wide range of courses tailored to meet your needs. This platform features interactive lessons, real-world projects, and a supportive community to help you achieve your learning goals.
